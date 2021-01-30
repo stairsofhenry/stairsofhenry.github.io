@@ -19,7 +19,7 @@
     </head>
     <body>
     <h2>Check the code for commonts by right-clicking and clicking "veiw page source". Comments will start with &lt; !-- and end with --></h2>
-    <h1>Hi! I'm Henry H! Welcome to <em>The Stairs of Henry H</em>!</h1>
+    <h1>Hi! I'm Henry H! Welcome to <em>The Stairs of Henry </em>!</h1>
     <h3>Hi. I'm Henry. I'm learning code, and well, coded this website myself! I learned on <a href="https://www.khanacademy.org/computer-programming/">Khan Academy</a>.</h3>
     <p>This is my first <em>Published</em> site, and I will be updating it each week. A shout to <strong>Henry D, and Henry S!</strong> Also to my late elementry coding teacher, Mrs. Altoya Brinkly. </p> 
     <!-- Hello all who llok at code! I'm Henry. Like I said, I coded this ENTIRE thing!!!! Well, got to get back to coding now, but there will be more of these comments in the code! (see line 26!) bye! -->
