@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>stairsofhenry</title>
+        <style>
+             body  {
+                color: rgb(10, 43, 13);
+                background-color: rgb(255, 111, 0);
+                
+                
+            }
+            #button {
+                
+            }
+            
+            
+        </style>
+    </head>
+    <body>
+    <h2>Check the code for commonts by right-clicking and clicking "veiw page source". Comments will start with &lt; !-- and end with --></h2>
+    <h1>Hi! I'm Henry H! Welcome to <em>The Stairs of Henry H</em>!</h1>
+    <h3>Hi. I'm Henry. I'm learning code, and well, coded this website myself! I learned on <a href="https://www.khanacademy.org/computer-programming/">Khan Academy</a>.</h3>
+    <p>This is my first <em>Published</em> site, and I will be updating it each week. A shout to <strong>Henry D, and Henry S!</strong> Also to my late elementry coding teacher, Mrs. Altoya Brinkly. </p> 
+    <!-- Hello all who llok at code! I'm Henry. Like I said, I coded this ENTIRE thing!!!! Well, got to get back to coding now, but there will be more of these comments in the code! (see line 26!) bye! -->
+    <h2>Contents:<br>
+        <a href="#flag-of-the-week">Flag of the Week</a><br>
+        <a href="#links">Links</a><br>
+        <a href="#articles">Articles</a>(At the Articles opening, will have a table of Contents for the Articles)<br>
+        <a href="#credits-and-thanks">Credits and thank-yous</a>
+        <!-- I like to be thankful. -->  
+    </h2>
+    <h2 id="flag-of-the-week">Flag of the week:</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Animated-Flag-Peru.gif" alt="FLag of Peru" width="480">
+    <p>Flag of Peru <br>Author: Wikimedia Commons</p>
+    <button type="#button">hello</button>
+    <button type="button" onclick="alert('https://pamelafoxbot.github.io')">Click Me!</button>
+ <h1>H</h1>
+     
+
+
+    </body>
+</html>
