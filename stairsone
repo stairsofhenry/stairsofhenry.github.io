@@ -33,9 +33,8 @@
     <h2 id="flag-of-the-week">Flag of the week:</h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Animated-Flag-Peru.gif" alt="FLag of Peru" width="480">
     <p>Flag of Peru <br>Author: Wikimedia Commons</p>
-    <button type="#button">hello</button>
-    <button type="button" onclick="alert('https://pamelafoxbot.github.io')">Click Me!</button>
- <h1>H</h1>
+    <p>Please right click and view source! I work vary hard on this. You may observe comments: They will look like <!-- When they start and --> when they end.</p>
+ 
      
 
 
