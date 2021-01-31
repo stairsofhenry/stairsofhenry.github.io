@@ -13,6 +13,7 @@
            .TYh5hr {
              font-family: monospace;
              color: rgb(255, 0, 0);
+             font-size: 50px;
            }
            </style>
     </head>
@@ -41,6 +42,29 @@
     <h3>Your Welcome</h3>
     <h3>Ваш прием</h3>
     <h3>Vos-pree-om</h3>
+     <h2>Learn Chinese:</h2>
+    <h3>Hello:</h3>
+    <h3>你好</h3>
+    <h3>nǐ hǎo</h3>
+    <h3>Goodbye</h3>
+    <h3>再见</h3>
+    <h3>zài jiàn</h3>
+    <h3>Yes</h3>
+    <h3>是的</h3>
+    <h3>shì de</h3>
+    <h3>No</h3>
+    <h3>不</h3>
+    <h3>bù</h3>
+    <h3>Thank You</h3>
+    <h3>谢谢</h3>
+    <h3>xiè xiè</h3>
+    <h3>You're Welome</h3>
+    <h3>别客气</h3>
+    <h3>bié kè qi</h3>
+    <h2>Learn Spanish</h2>
+    <h3>Hello:</h3>
+    <h3>Hola</h3>
+    
     
 
 
