@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>LearnLang©</title>
+        <style>
+           body {
+             font-family: cursive, serif ;
+             background-color: rgb(188, 247, 189);
+             color: rgb(37, 143, 173);
+             text-align: center;
+           }
+           .TYh5hr {
+             font-family: monospace;
+             color: rgb(255, 0, 0);
+           }
+           </style>
+    </head>
+    <body>
+    <h1>Welcome to 
+        <h1 class="TYh5hr">LearnLang©</h1>
+        
+    </h1>
+    <h1>Enjoy!</h1>
+    <h2>Learn Russian:</h2>
+    <h3>Hello:</h3>
+    <h3>Привет</h3>
+    <h3>Priv-yet</h3>
+    <h3>Goodbye:</h3>
+    <h3>До свидания</h3>
+    <h3>do svi-dan-iya</h3>
+    <h3>Yes</h3>
+    <h3>Да</h3>
+    <h3>da</h3>
+    <h3>No</h3>
+    <h3>Нет</h3>
+    <h3>Nyet</h3>
+    <h3>Thank You</h3>
+    <h3>Спасибо</h3>
+    <h3>Spas-ee-bu</h3>
+    <h3>Your Welcome</h3>
+    <h3>Ваш прием</h3>
+    <h3>Vos-pree-om</h3>
+    
+
+
+    </body>
+</html>
