@@ -9,6 +9,7 @@
              background-color: rgb(188, 247, 189);
              color: rgb(37, 143, 173);
              text-align: center;
+             font-size: 35px;
            }
            .TYh5hr {
              font-family: monospace;
