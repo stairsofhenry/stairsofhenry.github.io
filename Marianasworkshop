@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Mariana's workshop</title>
+        <style>
+        body {
+            font-family: "Georgia", serif ;
+            background-color: rgb(250, 5, 250);
+            color: rgb(149, 35, 12);
+        }
+        .title {
+            color: rgb(255, 103, 0) ;
+        }
+        
+        
+        .U-are-amazing {
+            font-family: cursive;
+        }
+        .America {
+            font-family: sans;
+        }
+        .LGBTQ {
+            font-family:serif;
+        }
+        .BLM {
+            font-family: monospace;
+        }
+        .naggi {
+            font-family: sans-serif;
+        }
+        .naggi {
+            color: rbg (3, 1, 1); 
+            
+        }
+        .maham {
+            font: "Jazz LET";
+        }
+       
+        
+        </style>
+    </head>
+    <body>
+    
+    <h1 class="title"> Welcome to my site, Mariana's Workshop</h1>
+    <h3> I hope that you will enjoy my website. I will include links, images, and more. Also, I will be updating it.</h3>
+    <h1 class="title">Contents:</h1>
+    <h3>Since I will be updating the links, images, etc., I am adding a table of contents with different sections. You might have to scroll down just a <em> little</em> bit to find it. But still, <strong>Enjoy!</strong></h3>
+    <h2>Links:</h2>
+    
+    <h3><a href="#rffl"> roll for fantasy</a></h3>
+    <h3><a href="#google_earth"> Google Earth</a></h3>
+    <h3><a href="#article2">Other Code sites</a></h3>
+        
+    
+    <h2>Images:</h2>
+    <h3><a href="#image1">Coat of arms</a></h3>
+    <h3><a href="#image2">Mr. Pants</a></h3>
+    <h2>Articles:</h2>
+    <h3><a href="#article1">Meditation</a></h3>
+    <h3><a href="#article2">Other Code sites</a></h3>
+    <h2> Link:</h2>
+    <h3>This is the link for one of <em>my</em> favorite websites, <a href="https://rollforfantasy.com/"> roll for fantasy.</a></h3>
+    <h3 id="rffl"></h3>
+    <h2 id="article1"> Article: Meditation</h2>
+    <h3>To meditate, first you breath through your nose, than out. Then Breath through your lungs, and out. Finally breath and focus on your belly expanding, then out. do that three times and then for a minute or two, observe the surroundings with all your senses except for you site(close your eyes). Now, you know how to meditate!
+    </h3>
+    <h2>Fonts of this Website:</h2>
+    <h2 class="U-are-amazing">Cursive</h2>
+    <h2 class="America">Sans serif</h2>
+    <h2 class="LGBTQ">Serif</h2>
+    <h2 class="BLM">Monospace</h2>
+    <h3>...and that is most of the fonts I <em>can</em> use. To be honest, I would like to have access to more fonts, but I'm thankful for what I have</h3>
+    <h1> 50 lines of code! (It'll change because I'm always adding things, but right now, I'm at 50</h1>
+    <h1 class="naggi" id="image1">Image:</h1>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/d/d6/College_of_Arms-Lant%27s_Roll.svg" alt="coat of arms" width="535">
+    <h1>BLACK LIVES MATTER</h1>
+    <h1>LGBTQ: LOVE IS LOVE</h1>
+    <h1>All people should be equal</h1>
+    <h2 class="maham"></h2>
+    <img src="https://www.kasandbox.org/programming-images/avatars/mr-pants-with-hat.png" width="130">
+    <p id="image2">Alright, so I've sovered everthing for today, but I can't really express to much. I'm <em>definitaly</em> not a proffesional</p>
+    
+    <!-- Almost 100 lines of code! I almost cant beleive it! -->
+    <h2 id="google_earth">Link: </h2>
+    <h3>This site is <em>really</em> cool. It is called <a href="https://www.google.com/earth/"> Google Earth</a> and you can visit places without even being there! I'll let you explore it.</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/BoreanLanguageTree.png">
+   
+    
+    </body>
+    </html>
