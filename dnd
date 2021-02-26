@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>DND Webpage</title>
+        <style>
+            body {
+                background-color: rgb(135, 30, 30);
+                text-align: center;
+                
+            }
+            a {
+           
+            }
+            #dc1 {
+                margin: 0px 33% ;
+                background-color: lime;
+                height: 200px;
+                overflow: auto;
+                width: 35%;
+                
+            }
+            #dc2 {
+                
+            }
+            #dnd1 {
+                color: rgb(255, 130, 255);
+                background-color: rgb(255, 43, 0);
+                
+            }
+            #dnd2 {
+                
+            }
+            #sc1 {
+                
+            }
+            #sc2 {
+                
+            }
+            .ct1 {
+                color: rgb(138, 191, 111);
+                   
+                
+            }
+            .ct2 {
+                
+            }
+        </style>
+        
+    </head>
+    <body>
+    <h1 id="dnd1">Welcome to the dnd page!</h1>
+    <div id="dc1">
+        <h2>Henry here! Told you I would code a DND page for us! I hope that you will  enjoy it! Hey, if you could do me a favor, right click, and do view page source. <br><span class="ct1">&lt;!-- this is what the comment will look like. --> <br>/*they mey also look like this*/</span>
+        </h2>
+    </div>
+    
+    </body>
+</html>
