@@ -3,47 +3,81 @@
     <head>
         <meta charset="utf-8">
         <title>DND Webpage</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Shadows+Into+Light">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Grenze+Gotisch">
         <style>
+            /* Thank you for looking at the comments! I've kind of been behin on this.*/
             body {
                 background-color: rgb(135, 30, 30);
                 text-align: center;
+                color: grey;
+                font-family: "Shadows Into Light";
                 
             }
-            a {
-           
+            a:link {
+                color: blue;
+            }
+            a:active {
+           color: purple;
+            }
+            a:hover {
+                color: purple;
+            }
+            a:visited {
+           color: purple;
             }
             #dc1 {
-                margin: 0px 33% ;
+                margin: 0px 33%;
                 background-color: lime;
                 height: 200px;
                 overflow: auto;
                 width: 35%;
+                color: black;
                 
             }
-            #dc2 {
-                
+            .sans {
+                font-family: sans-serif;
+                color: black;
             }
             #dnd1 {
                 color: rgb(255, 130, 255);
                 background-color: rgb(255, 43, 0);
                 
-            }
-            #dnd2 {
                 
             }
+            #dnd2 {
+                border: dashed red;
+                color: yellow;
+            }
+            /* Not completly sure if I'll need the next one */
             #sc1 {
                 
             }
-            #sc2 {
+            .GrenzeGotischfont {
+                font-family: "Grenze Gotisch";
+                color: rgb(0, 0, 0);
                 
             }
             .ct1 {
                 color: rgb(138, 191, 111);
+                font-family: mono;
                    
                 
             }
+            /* Or this one*/
             .ct2 {
+                margin: 1%;
                 
+            }
+            /* Hey! Turns out it WAS useful after all!*/
+            #yolo {
+                border: dotted;
+                margin: 0px 183px;
+            }
+            #yono {
+                border: dotted;
+                margin: 0px 183px;
+                background: rgb(69, 64, 94);
             }
         </style>
         
@@ -51,9 +85,246 @@
     <body>
     <h1 id="dnd1">Welcome to the dnd page!</h1>
     <div id="dc1">
-        <h2>Henry here! Told you I would code a DND page for us! I hope that you will  enjoy it! Hey, if you could do me a favor, right click, and do view page source. <br><span class="ct1">&lt;!-- this is what the comment will look like. --> <br>/*they mey also look like this*/</span>
+        <p class="ct2">Scroll to see more info</p>
+        <h2>Henry here! Told you I would code a DND page for us! I hope that you will  enjoy it! Hey, if you could do me a favor, right click, and do view page source. <br> see below on how ot recognise the comments.
         </h2>
     </div>
+    <div style="background: white; width: 60%; margin: 30px 20%"><span class="ct1">&lt;!-- this is what the comment will look like. --> <br>/*they mey also look like this*/</span></div>
+    <h1>Table of contents:</h1>
+    <p>
+        <a href="#Contents1">Queastions and comments</a>
+    </p>
+    <h1>Characters:</h1>
+    <table border id="dnd2"style="margin: 0px 29%; font-size: 30px;" >
+    <!-- It takes alot of time to remember all the commands for a table. I still have trouble!-->
+        <thead>
+        <tr>
+        <th>Character</th>
+        <th>Person</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Fizz</td>
+                <td>Jac</td>
+            </tr>
+            <tr>
+                <td>Joe</td>
+                <td>Henry</td>
+            </tr>
+            <tr>
+                <td>Assuna</td>
+                <td>Corina</td>
+            </tr>
+            <tr>
+                <!-- 100th line of code! Yay!!!!!!!-->
+                <td>Oken</td>
+                <td>Owen</td>
+                <!-- if I got your name wrong, please tell me so I can fix it.-->
+            </tr>
+        </tbody>
+    </table>
+    If I got your name wrong, <i>please</i> tell me so that I can fix it!
+    <h2>A special thank you to Gabriel,  because you create our game!</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Twenty_sided_dice.svg" height="150px">
+    <br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/10_sided_die.svg" height="100px">
+<br>
+    DND and the Zoom meating was from Inside Out Learners<sup>©</sup> Thank you Inside Out! By the way,I was only able to make this website by my learning in <a href="https://www.khanacademy.org/">Khan Academy</a> and the Computing course <a href="https://www.khanacademy.org/computing/computer-programming/html-css">here</a>.
+    <!-- I take pride in inserting images and links.-->
+    <h1 id="Contents1">questions/comments:</h1>
     
+<!-- I ran into some bugs with the other buttons-->
+
+    <button type="button" onclick="alert(' More than 200 lines of code On the first day! This answer was coded on the first day! ')">How long did take you to make this?</button>
+    <button type="button" onclick="alert(' If you have any recomendations, tell me! I had a little trouble designing it.')">I don't like the color scheme/theme.</button>
+    <br><br><br><p>I ran into some bugs with those question/comment buttons, so I had to delete the others. So, know I'll just do it like this:</p>
+    <h2>Why isn't there much on here?</h2>
+    <h3>I know it's not much, but it's actually one of my biggest projects! Over 100 lines of code on my first day! This answer was coded on the first day! Still, I'll try to update it at least once a month, and at most, a few a week.</h3>
+    <!-- Unfortunatly, I wasn't able to use the <script> tag because the original platform I was using to code, khan academy, doesn't host a server that I can use for that specific tag. Plus, since I'm never able to actually engage in using because of the platform, I have a much to vague understanding of it. -->
+    <h1>Links to some of my other sites:</h1>
+    <h4>
+        <a href="https://stairsofhenry.github.io/stairsone">Stairs of Henry(original)</a><br>
+        <a href="https://stairsofhenry.github.io/learnlang">Learn lang<sup>©</sup></a><br>
+        <a href="https://stairsofhenry.github.io/marianasworkshop">Mariana's Workshop</a>
+    </h4>
+    <h1 class="GrenzeGotischfont">Maryako</h1>
+    <p class="GrenzeGotischfont">Maryako is the made-up language I well, <em>made up,</em> and I hope to include it more in the game. So, I am now showing you how to speak it! I will be using IPA to describe the sounds, and it can get confusing. For example, 
+    <span style="font-family: sans-serif">[r]</span> looks like it's pronounced like our english, "r" sound, but no, <span style="font-family: sans-serif">[r]</span> is actually a rolled r. <span style="font-family: sans-serif">[ɹ] or </span> is our english "r" sound. So unless you already now IPA, consider finding out the consonant sounds <a href="https://en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio">here</a> and the vowel sounds <a href="https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio">here</a> By the way, I will tell you at the end of the table which IPA consonant symbols are pronounced the same is english as they are in IPA.
+        
+    </p>
+    <div class="sans" id="yolo"style="background-color: rgb(69, 64, 94">
+    <h2>Consonents</h2>
+        <table border>
+            <thead>
+                <tr>
+                    <th>Sound</th>
+                    <th>Letter/symbol</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>/n/ </td>
+                    <td>n</td>
+                </tr>
+                <tr>
+                    <td>/m/ 
+                    <td>m
+                </tr>
+                <tr>
+                    <td>/ɲ/
+                    <td>ň
+                </tr>
+                <tr>
+                    <td>/r/
+                    <td>ř
+                </tr>
+                <tr>
+                    <td>/ɹ̠/
+                    <td>r
+                </tr>
+                <tr>
+                    <td>/b/
+                    <td>b
+                </tr>
+                <tr>
+                    <td>/p/
+                    <td>ḃ
+                </tr>
+                <tr>
+                    <td>/d/
+                    <td>d
+                </tr>
+                <tr>
+                    <td>/t/
+                    <td>ḋ
+                </tr>
+                <tr>
+                    <td>/g/
+                    <td>g
+                </tr>
+                <tr>
+                    <td>/k/
+                    <td>ġ
+                </tr>
+                <tr>
+                    <td>/s/
+                    <td>s
+                </tr>
+                <tr>
+                    <td>/z/
+                    <td>z
+                </tr>
+                <tr>
+                    <td>/ʂ/
+                    <td>š
+                </tr>
+                <tr>
+                    <td>/ʐ/
+                    <td>ž
+                </tr>
+                <tr>
+                    <td>/ʙ/
+                    <td>ɓ
+                </tr>
+                <tr>
+                    <td>/ɟ/
+                    <td>ǧ
+                </tr>
+                <tr>
+                    <td>/dz/
+                    <td>ḑ
+                </tr>
+                <tr>
+                    <td>/ts/
+                    <td>c
+                </tr>
+                <tr>
+                    <td>/c/
+                    <td>ç
+                </tr>
+                
+                <tr>
+                    <td>/t̠ʃ/
+                    <td>č
+                </tr>
+                <tr>
+                    <td>/j/
+                    <td>j
+                </tr>
+                <tr>
+                    <td>/ʔ/
+                    <td>‘
+                </tr>
+                <tr>
+                    <td>/ð/
+                    <td>ð
+                </tr>
+                <tr>
+                    <td>/θ/
+                    <td>ȷ
+                </tr>
+                <tr>
+                    <td>/x/
+                    <td>q
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    <div class="sans" id="yono">
+    <h2>Vowels</h2>
+  
+    <table style="background-color: rgb(69, 64, 94" border>
+        <thead>
+            <tr>
+                <th>Sound
+                <th>Letter/Simbol
+            </tr>
+            </thead>
+            <tbody>
+            
+            <tr>
+                <td>/ə/
+                <td>w
+            </tr>
+            <tr>
+                <td>/u/
+                <td>u
+            </tr>
+            <tr>
+                <td>/i/
+                <td>e
+            </tr>
+            <tr>
+                <td>/o/
+                <td>o
+            </tr>
+        </tbody>
+    </table>
+    <h2>Vowel tones</h2>
+    <table border>
+        <thead>
+            <tr>
+                <th>Tone
+                <th>Example
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>high
+                <td>ȯ
+            </tr>
+            <tr>
+                <td>falling-rising
+                <td>ŏ
+            </tr>
+            <tr>
+                <td>falling tone
+                <td>ò
+            </tr>
+        </tbody>
+    </table>
+    </div>
     </body>
 </html>
