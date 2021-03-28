@@ -5,7 +5,7 @@
         <title>DND Webpage</title>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Shadows+Into+Light">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Grenze+Gotisch">
-        <link rel="stylesheet" href="https://stairsofhenry.github.io/dndwgabe.css"
+        <link rel="stylesheet" href="dndwgabe.css" type="text">
         <style>
             /* Thank you for looking at the comments! I've kind of been behin on this.*/
             body {
