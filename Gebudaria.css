@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: default;
   font-family: sans-serif;
   color: black;
 }
@@ -19,5 +19,8 @@ a:used {
   text-decoration: italic;
   color: purple;
   z-index: 2;
+  font-family: serif;
+}
+conStl1 {
   font-family: serif;
 }
