@@ -1,3 +1,23 @@
 body {
   background-color: red;
+  font-family: sans-serif;
+  color: black;
+}
+a:link {
+  color: blue;
+  text-decoration: underline;
+}
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+a:used {
+  color: purple;
+  text-decoration: underline;
+}
+#anthym {
+  text-decoration: italic;
+  color: purple;
+  z-index: 2;
+  font-family: serif;
 }
