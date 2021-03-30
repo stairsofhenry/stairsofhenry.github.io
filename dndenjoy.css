@@ -56,16 +56,16 @@ a:link {
             /* Hey! Turns out they WERE useful after all!*/
             #yolo {
                 border: dotted;
-                margin: 0px 50px;
+                margin: 0px 30%;
             }
             #yono {
                 border: dotted;
-                margin: 0px 50px;
+                margin: 0px 30%;
                 background: rgb(69, 64, 94);
             }
             #yoko {
                 border: dotted;
-                margin: 0px 10px;
+                margin: 0px 29%;
             }
             #maryako {
                 height: 250px;
