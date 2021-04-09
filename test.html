@@ -22,95 +22,23 @@
         </ul>
         <iframe width="420" height="315" src="https://www.youtube.com/watch?v=lAgzvgssIeQ"></iframe>
         <iframe width="640" height="360" src="https://www.youtube.com/embed/tUX-frlNBJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <style>
-            // Variables
-$background: url('http://www.seancrater.com/codepen/banner.jpg');
-$logo: url('http://www.seancrater.com/codepen/timb2.png');
-$white: #ffffff;
-$ghost: rgba(255,255,255,.25);
-$hover: rgba(245,160,25,.8);
-
-// Actual Banner Code
-.ad {
-  margin: 20px auto;
-  max-width: 768px;
-  background-image: $background;
-  background-size: cover;
-  background-position: left center;
-  border: 1px solid #333;
-  .container {
-    clear: both;
-    padding: 1px 0 0 0;
-    .logo {
-      width: 283px;
-      height: 50px;
-      margin: 20px auto;
-      background-image: $logo;
-      background-size: cover;
-      background-position: center center;
-    }
-    a {
-      display: block;
-      color: $white;
-      text-decoration: none;
-      }
-    }
-    h2 {
-      background-color: $hover;
-      padding: 10px 20px;
-      font-size: 2.15em;
-      line-height: 70px;
-      font-family: 'Oswald', sans-serif;
-      text-transform: uppercase;
-      transition: all .15s ease;
-      text-align: center;
-      &:hover {
-        background-color: $hover;
-        transition: all .15s ease;
-      }
-    }
-}
-
-@media screen and (min-width: 525px) {
-  .ad {
-    height: 90px;
-    .container {
-      padding: 0 25px;
-    }
-    .logo {
-      float: left;
-    }
-    h2 {
-      float: right;
-      background-color: $ghost;
-    }
-  }
-}
-        </style>
-        <section class="ad">
-  <div class="container">
-    <a href="http://www.timberland.com/">
-      <div class="logo" alt="Timberland">
-      </div>
-    </a>
-    <a href="http://www.timberland.com/sale.html">
-      <h2>Shop Now</h2>
-    </a>
-  </div>
-</section>
-        <br>
-        **Paste your google adsense code inside the body**
-        This is the body of your page.
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Homepage Leaderboard -->
-        <ins class="adsbygoogle"
-            style="display:inline-block;width:728px;height:90px"
-            data-ad-client="ca-pub-1234567890123456"
-            data-ad-slot="1234567890"></ins>
         <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
+            var textOne = mouseX;
+var textY = mouseY+5;
+var textX = mouseX-5;
+draw = function() {
+    var textY = mouseY+5;
+var textX = mouseX-5;
+    background(255, 255, 255);
+    fill(0, 0, 0);
+    var textOne = mouseX;
+    var textTwo = mouseY;
+    var textThree = textOne +","+ textTwo;
+    text(textThree, textX, textY);
+    
+};
 
+        </script>
 
 
 
