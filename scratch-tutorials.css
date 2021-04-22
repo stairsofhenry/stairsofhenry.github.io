@@ -1,0 +1,10 @@
+a:hover {
+  color: red;
+}
+::selection {
+  background-color: yellow;
+  color: white;
+}
+a:used {
+  color: purple;
+}
