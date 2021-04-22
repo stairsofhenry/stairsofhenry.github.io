@@ -8,3 +8,27 @@ a:hover {
 a:used {
   color: purple;
 }
+
+@keyframes bonjour {
+  0% {
+    background-color: red;
+  }
+  35% {
+    background-color: yellow;
+                }
+  50% {
+    background-color: green;
+                }
+  70% {
+    background-color: blue;
+                }
+  100% {
+    background-color: red;
+                }
+            }
+body {
+  animation-name: bonjour;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+      
