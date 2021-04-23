@@ -31,17 +31,4 @@ body {
   animation-duration: 5s;
   animation-iteration-count: infinite;
 }
-nav {
-  background-color: purple;
-  color: olive;
-  position: fixed;
-  text-align: center;
-  width: 100%;
-}
-nav a {
-  font-family: sans-serif;
-  text-decoration: none;
-}
-nav a:hover {
-  color: pink
-}
+
