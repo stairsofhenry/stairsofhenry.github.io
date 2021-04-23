@@ -35,6 +35,7 @@ nav {
   background-color: purple;
   color: olive;
   position: fixed;
+  text-align: center;
 }
 nav a {
   background-color: red;
