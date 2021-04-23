@@ -36,9 +36,10 @@ nav {
   color: olive;
   position: fixed;
   text-align: center;
+  width: 100%;
 }
 nav a {
-  background-color: red;
+  font-family: sans-serif;
   text-decoration: none;
 }
 nav a:hover {
