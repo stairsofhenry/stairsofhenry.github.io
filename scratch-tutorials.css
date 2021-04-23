@@ -34,6 +34,7 @@ body {
 nav {
   background-color: purple;
   color: olive;
+  position: fixed;
 }
 nav a {
   background-color: red;
