@@ -31,4 +31,14 @@ body {
   animation-duration: 5s;
   animation-iteration-count: infinite;
 }
-      
+nav {
+  background-color: purple;
+  color: olive;
+}
+nav a {
+  background-color: red;
+  text-decoration: none;
+}
+nav a:hover {
+  color: pink
+}
