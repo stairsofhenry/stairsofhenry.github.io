@@ -29,7 +29,9 @@
 
         </style>
     </head>
-    <body>
+    <body onload="myFunction()" style="margin:0;">
+        <div id="loader"></div>
+    <div style="display:none;" id="myDiv" class="animate-bottom">
         <nav style="position: fixed;">
             <h1>
                 <a href="#top">Top</a> ||| <a href="https://scratch.mit.edu">Scratch</a> ||| <a href="#stop">How to animate when stop is pressed</a> ||| <a href="#other">Other scratch tutorials</a>
@@ -66,9 +68,21 @@
     <p>
     <div id="do it"></div>
     </p>
+</div>
     <script>
         var enjoyEl  = document.getElementById("do it").textContent = "If you enjoy these tutorials, please comment and follow my scratch profile, and comment and love the scratch project where I told everyone about this webpage";
         enjoyEl.style.color = "blue";
+        
+        var myVar;
+
+        function myFunction() {
+        myVar = setTimeout(showPage, 3000);
+        }
+
+        function showPage() {
+        document.getElementById("loader").style.display = "none";
+        document.getElementById("myDiv").style.display = "block";
+        }
     </script>
     </body>
 </html>
