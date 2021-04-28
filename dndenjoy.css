@@ -72,3 +72,16 @@ a:link {
                 overflow: auto;
                 background: rgb(140, 89, 89);
             }
+          #idsarethebest {
+            position: fixed;
+            background-color: rgb(135, 30, 30);
+            z-index: 0;
+          }
+#idsarethebest:hover {
+  z-index: 2;
+  color: white;
+  font-family: sans-serif;
+  text-align: right;
+  margin-top: 90%;
+  font-size: 7.5px;
+}
