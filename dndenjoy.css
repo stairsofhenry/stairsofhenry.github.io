@@ -77,11 +77,11 @@ a:link {
             background-color: rgb(135, 30, 30);
             z-index: 0;
           }
-#idsarethebest:hover {
-  z-index: 2;
-  color: white;
-  font-family: sans-serif;
-  text-align: right;
-  margin-top: 90%;
-  font-size: 7.5px;
-}
+          #idsarethebest:hover {
+            z-index: 2;
+            color: white;
+            font-family: sans-serif;
+            text-align: right;
+            margin-top: none;
+            font-size: 7.5px;
+          }
