@@ -23,15 +23,15 @@ a:link {
                 font-family: sans-serif;
                 color: black;
             }
-            .dnd1 {
+            #dnd1 {
                 color: rgb(255, 130, 255);
-                background-color: rgb(255, 43, 0);
-                margin: 0px 29%; 
-                font-size: 30px;   
+                background-color: rgb(255, 43, 0);  
             }
-            #dnd2 {
+            .dnd2 {
                 border: dashed red;
                 color: yellow;
+                margin: 0px 29%; 
+                font-size: 30px; 
             }
             /* Not completly sure if I'll need the next one */
             #sc1 {
