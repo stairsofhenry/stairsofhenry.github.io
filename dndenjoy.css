@@ -74,7 +74,8 @@ a:link {
             }
           #idsarethebest {
             position: fixed;
-            background-color: rgb(135, 30, 30);
+            color: white;
+            font-size: 30px;
             z-index: 0;
           }
           #idsarethebest:hover {
