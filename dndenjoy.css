@@ -74,15 +74,7 @@ a:link {
             }
           #ILID {
             position: fixed;
-            color: white;
+            color: white !important;
             font-size: 30px;
             z-index: 2 !important;
-          }
-          #ILID:hover {
-            z-index: 2 !important;
-            color: lime !important;
-            font-family: sans-serif;
-            text-align: center;
-            margin-top: none;
-            font-size: 33px;
-          }
+          
