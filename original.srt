@@ -1,0 +1,1031 @@
+1
+00:00:00,210 --> 00:00:03,090
+Everybody, this is Code Orange Beach, and I have
+
+2
+00:00:03,900 --> 00:00:06,360
+well, I mostly developed a
+
+3
+00:00:08,850 --> 00:00:15,180
+IT typed version of scratch coding its coding, but
+
+4
+00:00:16,500 --> 00:00:19,860
+I just want to show you I just want to help you
+
+5
+00:00:19,860 --> 00:00:22,710
+understand exactly what type tone is so tight.
+
+6
+00:00:22,710 --> 00:00:25,680
+Coding is kind of a phrase I made up, but it's
+
+7
+00:00:25,680 --> 00:00:28,410
+exactly what it is. It's type code. So one of
+
+8
+00:00:28,440 --> 00:00:31,590
+these is JavaScript and I'm just going to give you
+
+9
+00:00:31,590 --> 00:00:37,580
+an example and scratch we would to do an equation.
+
+10
+00:00:38,040 --> 00:00:42,440
+We have an equation block. It's a green block or
+
+11
+00:00:43,260 --> 00:00:46,560
+so blank plus blank. And then we would put that in
+
+12
+00:00:46,560 --> 00:00:51,730
+a say. So one flag clicked say blah blah, blah,
+
+13
+00:00:51,730 --> 00:00:53,580
+blah, blah, blah, blah. In this case, we're going
+
+14
+00:00:53,580 --> 00:00:55,770
+to use nine plus five
+
+15
+00:00:58,650 --> 00:01:01,880
+and so on JavaScript we would do that print.
+
+16
+00:01:01,930 --> 00:01:06,210
+Arlynn, we put the data that we want to do the
+
+17
+00:01:06,210 --> 00:01:10,440
+equation in five plus nine and it would write it
+
+18
+00:01:10,440 --> 00:01:17,220
+as 14 on the screen, um, not in code on this part
+
+19
+00:01:17,220 --> 00:01:18,570
+of the code. So
+
+20
+00:01:20,760 --> 00:01:25,290
+I'm just going to show you what my typed version
+
+21
+00:01:25,290 --> 00:01:30,300
+of Scratch, which I'm going to call seal
+
+22
+00:01:33,450 --> 00:01:33,900
+type
+
+23
+00:01:35,910 --> 00:01:45,060
+type scratch computer language seal.
+
+24
+00:01:48,240 --> 00:01:59,940
+It's an IT seal or T ACL and it's pronounced SEAL.
+
+25
+00:02:00,450 --> 00:02:08,570
+That is the um this right here is the IPA and it's
+
+26
+00:02:08,580 --> 00:02:15,580
+exactly it's seal. SEAL. OK, all right. Let's go
+
+27
+00:02:15,580 --> 00:02:17,430
+ahead and start typing this. So
+
+28
+00:02:21,660 --> 00:02:26,310
+this, this starts everything off. When I have that
+
+29
+00:02:28,740 --> 00:02:29,340
+a
+
+30
+00:02:31,650 --> 00:02:34,620
+dollar sign I'm going to go and start typing in
+
+31
+00:02:34,620 --> 00:02:39,960
+here. So we're going to um there these things
+
+32
+00:02:40,140 --> 00:02:42,210
+where I can go like this.
+
+33
+00:02:44,220 --> 00:02:47,130
+So anybody reading this who actually knows the
+
+34
+00:02:47,130 --> 00:02:49,680
+language, they will be like, oh yeah, this book
+
+35
+00:02:49,680 --> 00:02:53,460
+has to do with, um, sound or if it's like this. Oh
+
+36
+00:02:53,460 --> 00:02:57,260
+yeah. This book definitely has to do with, uh,
+
+37
+00:02:57,450 --> 00:03:02,880
+looks and oh no, this has to do with motion et
+
+38
+00:03:02,910 --> 00:03:07,260
+cetera. Well actually it's mostly just those three
+
+39
+00:03:07,620 --> 00:03:10,170
+for anything else, like an event book we could do
+
+40
+00:03:11,010 --> 00:03:16,380
+event because those that there's question
+
+41
+00:03:16,890 --> 00:03:22,830
+exclamation marks are comments. And if maybe
+
+42
+00:03:22,830 --> 00:03:26,880
+there's a block that looks the same as another
+
+43
+00:03:26,880 --> 00:03:29,100
+block, but it's for a different thing and a
+
+44
+00:03:29,100 --> 00:03:32,070
+different type of block, we could tell the
+
+45
+00:03:32,070 --> 00:03:35,490
+computer what it is. I mean, you don't usually
+
+46
+00:03:35,490 --> 00:03:38,760
+need to do that, but we would do this. So we would
+
+47
+00:03:38,760 --> 00:03:44,070
+say event. It also helps the reader, but it also
+
+48
+00:03:44,430 --> 00:03:47,910
+helps the computer. I could write whatever I want
+
+49
+00:03:47,910 --> 00:03:50,550
+in this comment. It's not really code. So I could
+
+50
+00:03:50,550 --> 00:03:59,310
+write. I could write. I love scratch.
+
+51
+00:04:01,380 --> 00:04:02,960
+I could write, um,
+
+52
+00:04:05,490 --> 00:04:06,780
+could even write this.
+
+53
+00:04:10,240 --> 00:04:13,600
+Which is the symbol for which is the high block,
+
+54
+00:04:14,320 --> 00:04:16,660
+and it wouldn't do anything because it's coming
+
+55
+00:04:17,020 --> 00:04:21,730
+right back. OK, so I'm just going to go ahead and
+
+56
+00:04:21,730 --> 00:04:26,140
+show you what it's going to be like. So we're
+
+57
+00:04:26,140 --> 00:04:29,890
+going to go ahead and put that here. We're going
+
+58
+00:04:29,890 --> 00:04:33,670
+to do I want to tell the reader that this is a
+
+59
+00:04:33,670 --> 00:04:37,390
+height block. So height, I mean,
+
+60
+00:04:40,270 --> 00:04:43,570
+a looks block. And then we're going to go and put
+
+61
+00:04:43,570 --> 00:04:46,360
+this here and then we're going to put a semicolon
+
+62
+00:04:46,360 --> 00:04:49,240
+to tell them that it's the end of a block. Then we
+
+63
+00:04:49,240 --> 00:04:51,580
+have to know.
+
+64
+00:04:54,830 --> 00:04:58,400
+Go and do this, and then we're going to do this
+
+65
+00:04:58,400 --> 00:05:01,790
+again, but let's say I don't I want to make a
+
+66
+00:05:01,790 --> 00:05:06,800
+comment. No, no, I need to tell the computer so.
+
+67
+00:05:10,410 --> 00:05:16,860
+OK, and so if you know JavaScript.
+
+68
+00:05:21,150 --> 00:05:23,590
+You probably knew about the separating words with
+
+69
+00:05:23,590 --> 00:05:24,970
+capital letters thing,
+
+70
+00:05:27,100 --> 00:05:33,040
+which I'm going to use in the scratch. OK, so and
+
+71
+00:05:33,040 --> 00:05:36,580
+what we have to put this thing in here now in
+
+72
+00:05:36,580 --> 00:05:39,160
+order to tell the computer that it's
+
+73
+00:05:41,200 --> 00:05:44,050
+that it's kind of a drop down thing. It's got some
+
+74
+00:05:44,050 --> 00:05:49,420
+choices. We have to put this signs, anything like
+
+75
+00:05:49,420 --> 00:05:53,830
+this for this we're going to put in for this. Here,
+
+76
+00:05:53,830 --> 00:05:57,040
+let me speak. Hello? Are you going to put an
+
+77
+00:05:57,070 --> 00:06:01,810
+ampersand? Now, this is the same, but we're going
+
+78
+00:06:01,810 --> 00:06:04,870
+to put a hash tag or no shine because this is a
+
+79
+00:06:04,870 --> 00:06:07,150
+number if we were. But we're not to that point yet.
+
+80
+00:06:07,570 --> 00:06:10,810
+So we're going to put this hash. I mean, present
+
+81
+00:06:10,810 --> 00:06:17,970
+here. We want to put thank you. And then, uh, and
+
+82
+00:06:17,980 --> 00:06:24,700
+a block and now we're going to write this and all
+
+83
+00:06:24,700 --> 00:06:26,620
+that good computer. I think the computer knows
+
+84
+00:06:26,620 --> 00:06:32,260
+this. So reach and then we have to put the numbers
+
+85
+00:06:32,560 --> 00:06:35,110
+in here, but we don't have to we could just put
+
+86
+00:06:35,620 --> 00:06:39,490
+the regular ampersand, but it it helps the
+
+87
+00:06:39,490 --> 00:06:41,680
+computer know that it's specifically in number and
+
+88
+00:06:41,680 --> 00:06:45,940
+it could sometimes work wrong. So zero point five.
+
+89
+00:06:48,310 --> 00:06:49,120
+Seconds.
+
+90
+00:06:54,740 --> 00:06:55,330
+Um.
+
+91
+00:06:57,690 --> 00:07:04,800
+And, Brooke, um, and really we can just use curly
+
+92
+00:07:04,800 --> 00:07:06,540
+brackets like this.
+
+93
+00:07:11,540 --> 00:07:16,820
+Or if you're in a typewriter, uh, I could just do
+
+94
+00:07:16,820 --> 00:07:20,930
+this because typewriters don't actually help this,
+
+95
+00:07:21,740 --> 00:07:27,500
+the brackets or curly brackets. So we're going to
+
+96
+00:07:27,500 --> 00:07:31,250
+put, um, but we're going to do creeley records
+
+97
+00:07:31,280 --> 00:07:35,870
+because this is a computer, um, probably work
+
+98
+00:07:35,870 --> 00:07:39,710
+better. I make computer less confused. All right.
+
+99
+00:07:39,710 --> 00:07:43,100
+So that should wait. And then we're going to go
+
+100
+00:07:43,100 --> 00:07:48,650
+and show. No show.
+
+101
+00:07:52,150 --> 00:07:58,950
+And switch costume to
+
+102
+00:08:01,780 --> 00:08:04,090
+and then because it's kind of a drop down thing,
+
+103
+00:08:04,090 --> 00:08:06,490
+we got to do that present sign
+
+104
+00:08:09,070 --> 00:08:15,760
+and then name, costume one and block.
+
+105
+00:08:20,450 --> 00:08:24,730
+And switch. Back
+
+106
+00:08:26,830 --> 00:08:29,260
+drop to.
+
+107
+00:08:37,460 --> 00:08:39,650
+Left talking
+
+108
+00:08:42,290 --> 00:08:46,460
+now, because this is kind of a special ad on block,
+
+109
+00:08:46,850 --> 00:08:50,480
+there's a special we have to write a special line
+
+110
+00:08:50,480 --> 00:08:52,640
+of code, namely
+
+111
+00:08:58,160 --> 00:08:58,700
+the.
+
+112
+00:09:02,080 --> 00:09:03,970
+The following.
+
+113
+00:09:08,030 --> 00:09:10,550
+They have to reach following
+
+114
+00:09:13,220 --> 00:09:20,180
+is more than regular, then we have to put some
+
+115
+00:09:21,600 --> 00:09:22,190
+brackets.
+
+116
+00:09:25,850 --> 00:09:28,340
+Right, and then let's go ahead and put that block
+
+117
+00:09:28,340 --> 00:09:32,520
+in there and then now we have to actually tell us
+
+118
+00:09:33,050 --> 00:09:39,620
+what what it is. And so we have to do this.
+
+119
+00:09:44,400 --> 00:09:54,810
+Aalto, wait, no, uh, it's the text to speech at
+
+120
+00:09:54,810 --> 00:09:59,400
+Unblock. OK, and then we're going to do search.
+
+121
+00:10:01,040 --> 00:10:01,910
+Voice.
+
+122
+00:10:04,580 --> 00:10:05,240
+To.
+
+123
+00:10:13,510 --> 00:10:14,200
+Also.
+
+124
+00:10:16,680 --> 00:10:21,120
+And now we're going to finish the special blocks
+
+125
+00:10:21,120 --> 00:10:26,730
+and then we're going to speak. Then now this is
+
+126
+00:10:26,730 --> 00:10:30,270
+texture. We're going to use an ampersand. Hello,
+
+127
+00:10:33,000 --> 00:10:35,400
+how are you?
+
+128
+00:10:40,160 --> 00:10:45,020
+And block, OK? And they were going to broadcast
+
+129
+00:10:45,020 --> 00:10:46,940
+message one, OK?
+
+130
+00:10:52,640 --> 00:10:53,900
+Broadcast.
+
+131
+00:11:00,120 --> 00:11:07,740
+Message one, go ahead and finish that, and then
+
+132
+00:11:07,740 --> 00:11:12,990
+we're going to put two semicolons here. And what
+
+133
+00:11:12,990 --> 00:11:16,110
+if what if it's spinning? What if, of course,
+
+134
+00:11:16,110 --> 00:11:18,810
+you're going to want to write code most project
+
+135
+00:11:18,840 --> 00:11:19,590
+for multiple
+
+136
+00:11:26,010 --> 00:11:32,230
+sprites so you can't choose slashes Sprite name.
+
+137
+00:11:32,340 --> 00:11:38,370
+So this is for Sprite one. And then we're going to
+
+138
+00:11:38,370 --> 00:11:43,530
+finish this Sprite one code with two back slashes
+
+139
+00:11:43,920 --> 00:11:50,160
+and we can actually go back to it. So let's say
+
+140
+00:11:50,160 --> 00:11:53,340
+one does right to.
+
+141
+00:11:56,130 --> 00:11:56,830
+And then
+
+142
+00:11:59,040 --> 00:11:59,910
+I clicked.
+
+143
+00:12:06,120 --> 00:12:06,750
+All right.
+
+144
+00:12:17,630 --> 00:12:20,270
+And then we're going to know it's not one flight
+
+145
+00:12:20,270 --> 00:12:21,320
+glitch when
+
+146
+00:12:23,660 --> 00:12:24,620
+we see.
+
+147
+00:12:28,560 --> 00:12:30,690
+Receive.
+
+148
+00:12:33,500 --> 00:12:34,550
+Message.
+
+149
+00:12:36,650 --> 00:12:40,550
+One, and then we can actually we don't actually
+
+150
+00:12:40,550 --> 00:12:45,410
+need to do that because it's it's got this here,
+
+151
+00:12:45,410 --> 00:12:46,730
+which tells, OK,
+
+152
+00:12:49,760 --> 00:12:52,340
+we're going to read it for everything. It doesn't
+
+153
+00:12:52,340 --> 00:12:54,680
+we don't need to do this. It would actually mess
+
+154
+00:12:54,680 --> 00:12:57,110
+up the code if we did this, because we have this
+
+155
+00:12:57,560 --> 00:13:01,250
+it it tells when when something happens, we need
+
+156
+00:13:01,250 --> 00:13:07,700
+to do this. And when you do that, this would mess
+
+157
+00:13:07,700 --> 00:13:11,090
+everything up. And it would the computer wouldn't
+
+158
+00:13:11,090 --> 00:13:13,850
+be able to read it and it would be like, OK,
+
+159
+00:13:14,090 --> 00:13:19,790
+everything and anything even outside of it to none
+
+160
+00:13:19,790 --> 00:13:24,680
+of the code would run. So and then so now we need
+
+161
+00:13:24,680 --> 00:13:28,970
+to do when I received message one, we're going to
+
+162
+00:13:31,010 --> 00:13:33,050
+and then we're going to show.
+
+163
+00:13:36,910 --> 00:13:37,480
+Show
+
+164
+00:13:40,210 --> 00:13:41,880
+and then wait.
+
+165
+00:13:45,910 --> 00:13:50,320
+Which is zero point five seconds
+
+166
+00:13:53,350 --> 00:13:54,070
+and.
+
+167
+00:13:56,420 --> 00:14:00,470
+Hide, but let's say when I do this multiple times,
+
+168
+00:14:02,390 --> 00:14:03,260
+so.
+
+169
+00:14:07,200 --> 00:14:14,550
+Repeat. Three. And we're actually just going to do
+
+170
+00:14:14,550 --> 00:14:15,200
+that,
+
+171
+00:14:17,370 --> 00:14:19,800
+but we actually need regular black records for
+
+172
+00:14:19,800 --> 00:14:20,310
+this.
+
+173
+00:14:25,750 --> 00:14:30,740
+Regular brak, regular brackets and repeat, let me
+
+174
+00:14:30,890 --> 00:14:34,250
+repeat three times, so.
+
+175
+00:14:38,750 --> 00:14:39,260
+Oops.
+
+176
+00:14:42,160 --> 00:14:49,600
+OK, and then we're going to broadcast, broadcast,
+
+177
+00:14:50,780 --> 00:14:52,990
+mis broadcast.
+
+178
+00:14:58,570 --> 00:15:06,850
+Impassioned message to know we're going to end the
+
+179
+00:15:06,850 --> 00:15:11,530
+code for that spring and then let's say we're
+
+180
+00:15:11,530 --> 00:15:13,180
+going to go back to spray one again,
+
+181
+00:15:15,670 --> 00:15:20,110
+I know we can actually go back and forth, so.
+
+182
+00:15:24,020 --> 00:15:28,790
+This is Sprite once code, but it can also be got
+
+183
+00:15:28,850 --> 00:15:31,900
+to do this can also but, um.
+
+184
+00:15:39,560 --> 00:15:44,540
+Whatever I put me here is also Sprite one, so we
+
+185
+00:15:44,540 --> 00:15:47,200
+can actually go back and forth, back and forth,
+
+186
+00:15:47,210 --> 00:15:50,120
+and that's what's so cool and we can also just
+
+187
+00:15:50,120 --> 00:15:54,530
+comment doesn't even have to be in a block. So but
+
+188
+00:15:54,530 --> 00:15:57,530
+if it is, we need to put it. But if it isn't, we
+
+189
+00:15:57,530 --> 00:16:00,530
+need to put that there. So let's say hello.
+
+190
+00:16:03,500 --> 00:16:05,690
+How are you
+
+191
+00:16:10,190 --> 00:16:14,480
+now, I know, and so we can only put exclamation
+
+192
+00:16:14,480 --> 00:16:19,940
+marks inside of a comment when it's so actually
+
+193
+00:16:19,940 --> 00:16:23,090
+when that happens, we need to put two of these
+
+194
+00:16:23,090 --> 00:16:25,490
+here to tell it, OK?
+
+195
+00:16:27,650 --> 00:16:32,630
+The comment only stops at this exclamation mark.
+
+196
+00:16:35,210 --> 00:16:38,570
+That actually depends on what version in the
+
+197
+00:16:38,570 --> 00:16:41,360
+latest version. I haven't actually published it. I
+
+198
+00:16:41,360 --> 00:16:45,140
+don't know how to program everything to actually
+
+199
+00:16:45,140 --> 00:16:49,250
+make the programming language. But, um, you could
+
+200
+00:16:49,250 --> 00:16:54,610
+actually put it. You can't do it in a block, OK?
+
+201
+00:16:54,680 --> 00:17:00,320
+You can't do it here. That won't work because it
+
+202
+00:17:00,320 --> 00:17:05,540
+will shut down all the code below here because you
+
+203
+00:17:05,540 --> 00:17:09,230
+can't read it there. But anyways.
+
+204
+00:17:13,390 --> 00:17:14,350
+So.
+
+205
+00:17:17,090 --> 00:17:18,740
+Let's go ahead and
+
+206
+00:17:20,840 --> 00:17:21,590
+write this,
+
+207
+00:17:23,990 --> 00:17:29,440
+and then we're going to do. Luks say.
+
+208
+00:17:32,750 --> 00:17:35,840
+Ampersand, good bye.
+
+209
+00:17:40,030 --> 00:17:44,710
+OK, so then to end the entire script, we're going
+
+210
+00:17:44,710 --> 00:17:45,310
+to do.
+
+211
+00:17:51,260 --> 00:17:55,610
+SEAL, by the way, to start the script, we're going
+
+212
+00:17:55,610 --> 00:18:01,820
+to do the same thing. It will only read two of
+
+213
+00:18:01,820 --> 00:18:05,930
+these. So if you have three of these, then it's
+
+214
+00:18:05,930 --> 00:18:06,980
+going to be like.
+
+215
+00:18:10,700 --> 00:18:14,870
+Oh, no, bug, and it's going to shut down all the
+
+216
+00:18:14,870 --> 00:18:18,980
+code should only put this twice so seal
+
+217
+00:18:21,110 --> 00:18:24,140
+and then it ends here. So let's go through this
+
+218
+00:18:24,140 --> 00:18:31,070
+again. One flood and one one flood claimed hide,
+
+219
+00:18:33,020 --> 00:18:35,540
+and until the computers looks and I'm not going to
+
+220
+00:18:35,540 --> 00:18:41,200
+switch back drop to thank you. Wait, it's a no. As
+
+221
+00:18:41,210 --> 00:18:44,480
+you point five seconds, show switch costumes, your
+
+222
+00:18:44,480 --> 00:18:49,400
+costume, one switch back to your left talking and
+
+223
+00:18:49,400 --> 00:18:53,540
+then the following is more than regular. And then
+
+224
+00:18:54,980 --> 00:18:58,200
+that's only for the special box. And then it means
+
+225
+00:18:58,220 --> 00:19:02,300
+we got to tell it to a special block. Curly
+
+226
+00:19:02,300 --> 00:19:02,900
+brackets
+
+227
+00:19:06,050 --> 00:19:10,130
+sit voice to allow to speak. Hello, how are you?
+
+228
+00:19:12,190 --> 00:19:14,510
+I'm not going to broadcast message one. We're
+
+229
+00:19:14,540 --> 00:19:18,430
+ending that code here. Um.
+
+230
+00:19:22,090 --> 00:19:22,750
+That's actually
+
+231
+00:19:25,660 --> 00:19:30,940
+right, and we're ending that Sprite Sprite, too,
+
+232
+00:19:30,940 --> 00:19:33,910
+when I receive message one, we're going to repeat
+
+233
+00:19:33,910 --> 00:19:36,310
+this third time we're going to show and then we
+
+234
+00:19:36,310 --> 00:19:39,820
+have a second and then hide and then show that we
+
+235
+00:19:39,820 --> 00:19:43,060
+have a second hide and then we're going to
+
+236
+00:19:43,060 --> 00:19:45,100
+broadcast mushes. True. That's the end of this.
+
+237
+00:19:45,900 --> 00:19:47,910
+And then that's the end of that Sprite when Sprite
+
+238
+00:19:47,920 --> 00:19:49,300
+one. Oh, no.
+
+239
+00:19:51,640 --> 00:19:54,060
+There's a mistake that I actually did on purpose,
+
+240
+00:19:54,700 --> 00:19:56,280
+maybe you caught it earlier.
+
+241
+00:19:59,210 --> 00:20:05,240
+And realize we would know, but you're still if
+
+242
+00:20:06,020 --> 00:20:09,290
+you're still learning, you might forget to do this.
+
+243
+00:20:11,750 --> 00:20:13,010
+Let's get to this.
+
+244
+00:20:35,660 --> 00:20:40,310
+You forgot to do that. OK, so I get that mistake
+
+245
+00:20:40,310 --> 00:20:42,630
+on purpose, maybe you caught it, maybe you didn't.
+
+246
+00:20:43,010 --> 00:20:46,490
+That's fine if for those who didn't. It's just an
+
+247
+00:20:46,490 --> 00:20:48,380
+important reminder. If this ever does get
+
+248
+00:20:48,380 --> 00:20:53,000
+published, maybe it will. I'm sure a fifth grader
+
+249
+00:20:53,000 --> 00:20:54,080
+as of making this,
+
+250
+00:20:57,740 --> 00:21:01,040
+but it's essentially the same as this. It's just a
+
+251
+00:21:01,310 --> 00:21:05,240
+modified a little to be typed. And I hope you
+
+252
+00:21:05,240 --> 00:21:11,930
+enjoyed this SEAL tutorial. So let's do one more
+
+253
+00:21:11,930 --> 00:21:16,220
+thing. Anything outside of it's the last seal, but
+
+254
+00:21:16,490 --> 00:21:17,590
+that's not important.
+
+255
+00:21:23,170 --> 00:21:24,250
+I'm going to.
+
+256
+00:21:28,020 --> 00:21:36,000
+And he said, I hope you enjoy this seal, I hope
+
+257
+00:21:36,000 --> 00:21:37,440
+you enjoyed the seal.
+
+258
+00:21:40,520 --> 00:21:41,150
+By.
