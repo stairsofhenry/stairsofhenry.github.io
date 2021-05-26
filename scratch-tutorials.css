@@ -83,4 +83,22 @@ body {
   display: none;
   text-align: center;
 }
-
+nav {
+  background-color: purple;
+  color: olive;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  z-index: 1 !important;
+}
+nav a {
+  font-family: sans-serif;
+  text-decoration: none !important;
+  color: olive;
+}
+nav a:hover {
+  color: pink
+}
+.iii {
+  user-select: none;
+}
