@@ -102,6 +102,6 @@ nav a:hover {
 .iii {
   user-select: none;
 }
-ul, ol {
+ul {
   list-style-type: none;
 }
