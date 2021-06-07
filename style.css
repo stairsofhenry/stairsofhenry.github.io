@@ -14,16 +14,14 @@ html {
 	padding: 0;
 	}
 body { 
-	font: 75% georgia, sans-serif;
-	line-height: 1.88889;
-	color: #555753; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	color: red;
+	background-color: black; 
 	margin: 0; 
-	padding: 0;
+	font-family: ;
 	}
 p { 
 	margin-top: 0; 
-	text-align: justify;
+	text-align: center;
 	}
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
